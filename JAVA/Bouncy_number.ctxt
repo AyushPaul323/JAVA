@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isIncreasing(int)
+comment1.params=n
+comment1.target=boolean\ isDecreasing(int)
+comment2.params=n
+comment2.target=void\ isBouncy(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
